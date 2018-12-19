@@ -1,0 +1,11 @@
+img 10 ------------can not be verified ------------label 0-----------------analysis time:17.453418254852295
+img 11 ------------can not be verified ------------label 6-----------------analysis time:17.79482102394104
+img 12 ------------can not be verified ------------label 9-----------------analysis time:17.633387565612793
+img 13 ------------can not be verified ------------label 0-----------------analysis time:14.6751549243927
+img 14 ------------can not be verified ------------label 1-----------------analysis time:15.843773126602173
+img 15 ------------can not be verified ------------label 5-----------------analysis time:16.936766147613525
+img 16 ------------can not be verified ------------label 9-----------------analysis time:15.53441333770752
+img 17 ------------can not be verified ------------label 7-----------------analysis time:14.053602933883667
+img 18 ------------can not be verified ------------label 3-----------------analysis time:15.066836833953857
+img 19 ------------can not be verified ------------label 4-----------------analysis time:16.866461038589478
+#verified:0

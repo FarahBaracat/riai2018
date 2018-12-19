@@ -1,0 +1,21 @@
+img 0 ------------verified ------------label 7-----------------analysis time:9.951956510543823
+img 1 ------------verified ------------label 2-----------------analysis time:10.546987533569336
+img 2 ------------can not be verified ------------label 1-----------------analysis time:10.144835472106934
+img 3 ------------verified ------------label 0-----------------analysis time:9.064409494400024
+img 4 ------------can not be verified ------------label 4-----------------analysis time:9.411885261535645
+img 5 ------------can not be verified ------------label 1-----------------analysis time:9.943947792053223
+img 6 ------------can not be verified ------------label 4-----------------analysis time:9.24282193183899
+img 7 ------------can not be verified ------------label 9-----------------analysis time:9.332922458648682
+img 8 ------------can not be verified ------------label 5-----------------analysis time:9.383641242980957
+img 9 ------------verified ------------label 9-----------------analysis time:9.143017053604126
+img 10 ------------verified ------------label 0-----------------analysis time:9.168358325958252
+img 11 ------------can not be verified ------------label 6-----------------analysis time:10.627350091934204
+img 12 ------------verified ------------label 9-----------------analysis time:9.178786039352417
+img 13 ------------verified ------------label 0-----------------analysis time:8.980492115020752
+img 14 ------------verified ------------label 1-----------------analysis time:9.106571912765503
+img 15 ------------can not be verified ------------label 5-----------------analysis time:9.332021951675415
+img 16 ------------can not be verified ------------label 9-----------------analysis time:9.834275484085083
+img 17 ------------verified ------------label 7-----------------analysis time:8.940160989761353
+img 18 ------------verified ------------label 3-----------------analysis time:8.931818962097168
+img 19 ------------can not be verified ------------label 4-----------------analysis time:9.550364017486572
+#verified:10
